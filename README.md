@@ -1,6 +1,6 @@
 # Example of Async/Await
 
-This is an HOW TO Async/Await example
+This is a HOW TO Async/Await example
 
 Run:
 
