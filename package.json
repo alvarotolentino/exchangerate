@@ -1,0 +1,21 @@
+{
+  "name": "exchangerate",
+  "version": "0.0.1",
+  "description": "Exchange Rate - Async / Promise example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node ./dist/currency-converter.js"
+  },
+  "author": "Alvaro Tolentino",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/request": "^2.48.1",
+    "typescript": "^3.3.3333"
+  }
+}
